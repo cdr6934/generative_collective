@@ -1,4 +1,4 @@
-baseurl = "http://generativecollective.com/"  # Include trailing slash
+baseurl = "http://www.generativecollective.com/"  # Include trailing slash
 title = "Generate Collective"
 theme = "newsroom"
 author = "Chris Ried"
@@ -28,7 +28,7 @@ paginate = 7
 [params]
   # ga_analytics = "" # google analytics ID e.g UA-116386578-1
   # ga_verify = "" # google verification code e.g 5jb-rxeBfITeJQKOuUss3ud6FPGTxXkCho-ZN5qlrZg
-  # twitter = "generatecoll" # twitter handle e.g @weru
+    twitter = "generatecoll" # twitter handle e.g @weru
   # mainSections = ["blog", "docs"] see https://gohugo.io/functions/where/#mainsections
   # uncomment the line below will disable darkmode by default.
   # disableDarkMode = true  # note that the UI control for toggling darkmode will remain in place. This way, the user can decide which mode they would like to use while browsing your website
