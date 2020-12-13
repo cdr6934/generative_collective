@@ -1,7 +1,7 @@
 ---
 title: "Would Picasso Use Code to Generate Art? "
 date: 2020-12-12T13:51:51-06:00
-image: 
+image: /009/009_2.png
 draft: false
 ---
 
@@ -77,7 +77,7 @@ Don't forget to sign up and share the book giveaway!
 
 ## [Genuary 2021](https://genuary2021.github.io/) a.k.a Inktober for Generative Artists
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b64c0357-5b44-4999-b5f6-0519bff1f8a1/Untitled.png)
+![](/images/009/009_1.png)
 
 > [GENUARY](https://genuary2021.github.io/) is an artificially generated month of time where we build code that makes beautiful things.
 
@@ -97,11 +97,8 @@ I am quite excited for the following! It will be a great exercise that I think a
 
 ## Tyler Hobbs
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ad68ab88-d7ec-4d3d-8178-5a053cbb3887/tylerxhobbs_1607730611_1.jpg)
+![](/images/009/009_2.png)
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c98171ec-6c75-4c59-bf39-3901afc9aef9/tylerxhobbs_1606869117_1.jpg)
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92dc5770-6d09-4f7b-97c1-bf54a211a6ce/tylerxhobbs_1606408654_1.jpg)
 
 [Website](https://tylerxhobbs.com/) / [Instagram](https://www.instagram.com/tylerxhobbs/) / [Twitter](https://twitter.com/tylerxhobbs?lang=en)
 
@@ -110,8 +107,7 @@ I am quite excited for the following! It will be a great exercise that I think a
 ---
 
 ## [Forms - Screen Ensemble](https://cycling74.com/projects/forms-screen-ensemble)
-
-[https://vimeo.com/464531284#at=66](https://vimeo.com/464531284#at=66)
+{{<vimeo 464531284>}}
 
 > Forms -Screen Ensemble- is a generative visual music jukebox. Driven by chance and probability, this automata creates endless, unrepeatable graphic scores that are immediately transformed into sound by means of sonification algorithms. Images become sound spectrums, making it possible to -literally- hear what you see. The dream of Kandinski.
 
@@ -119,21 +115,23 @@ I am quite excited for the following! It will be a great exercise that I think a
 
 ## [Narcisse](www.nonotak.com)
 
+{{<youtube Yd6krWW_UbM>}}
+
 [https://www.youtube.com/watch?v=Yd6krWW_UbM&feature=emb_title](https://www.youtube.com/watch?v=Yd6krWW_UbM&feature=emb_title)
 
-> 
+>  
 
 # 🚤 Motion
 
 ## [Diffusion Choir](https://www.sosolimited.com/work/diffusion-choir/)
+{{<vimeo 187037469>}}
 
-[https://vimeo.com/187037469](https://vimeo.com/187037469)
 
 > Diffusion Choir is a kinetic sculpture that uses 400 folding elements to reveal the movements of an invisible flock of birds. Its movements are always changing, driven by custom software running a flocking algorithm.
 
 # 🔖 Articles and Tutorials
 
-![https://payload.cargocollective.com/1/18/598881/13800048/web_800.jpg](https://payload.cargocollective.com/1/18/598881/13800048/web_800.jpg)
+![](https://payload.cargocollective.com/1/18/598881/13800048/web_800.jpg)
 
 ## [Physarum](https://sagejenson.com/physarum)
 

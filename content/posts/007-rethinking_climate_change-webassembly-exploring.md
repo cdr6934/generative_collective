@@ -1,7 +1,7 @@
 ---
 title: "07 Rethinking Climate Change Awareness, Generative WebAssembly Music, and Exploring Differential Growth"
 date: 2020-11-28T13:50:58-06:00
-image: 
+image: /007/007_2.jpg
 draft: false
 ---
 
@@ -11,11 +11,12 @@ Here in the US, we  just celebrated Thanksgiving Day, but with this unfortunate 
 
 And here is a little piece of code that I worked on this week in Processing: 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7b62e51-01f0-48d1-a7da-98cfaf791ad3/20201126-234418-100.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f7b62e51-01f0-48d1-a7da-98cfaf791ad3/20201126-234418-100.png)
+![Circular Wealth - CDR - 2020 ](/images/007/007_1.png)
 
-Circular Wealth - CDR - 2020 
 
-[https://gist.github.com/cdr6934/aedf62c02b429eb8762394df9ccf025f](https://gist.github.com/cdr6934/aedf62c02b429eb8762394df9ccf025f)
+
+{{<gist cdr6934 aedf62c02b429eb8762394df9ccf025f>}}
+
 
 Also, if you are interested; I have added [some of the experiments](https://github.com/cdr6934/Generative-Processing-Experiments) that I have done in the past year in the link.
 
@@ -31,21 +32,17 @@ Chris Ried
 
 I've been having a ball going over the work that Hau has been posting on his [Twitter](https://twitter.com/Hau_kun) account. I've found that with the character limits of a tweet; he has generated complex sketches and I'd recommend you reading through his code. There are interesting shortcuts in order to generate the work that you will find in the clips below.
 
-[https://twitter.com/Hau_kun/status/1331636545804144640?s=20](https://twitter.com/Hau_kun/status/1331636545804144640?s=20)
-
-[https://twitter.com/Hau_kun/status/1331269873129852929?s=20](https://twitter.com/Hau_kun/status/1331269873129852929?s=20)
-
-[https://twitter.com/Hau_kun/status/1329084465654558734?s=20](https://twitter.com/Hau_kun/status/1329084465654558734?s=20)
-
-[Twitter](https://twitter.com/Hau_kun)
-
-[Webpage](https://haukun.projectroom.jp/) 
+{{<twitter 1331636545804144640>}}
+{{<twitter 1331269873129852929>}}
+{{<twitter 1329084465654558734>}}
+	
+[Twitter](https://twitter.com/Hau_kun) / [Webpage](https://haukun.projectroom.jp/) 
 
 # 🖌️ Unconventional Media
 
 ## WebAssembly Music
 
-[https://www.youtube.com/watch?v=C8j_ieOm4vE&feature=emb_title](https://www.youtube.com/watch?v=C8j_ieOm4vE&feature=emb_title)
+{{<youtube C8j_ieOm4vE>}}
 
 > Been playing with computer music since the 80s from the tracker era to modern soft synths and DAWs, and even writing some myself. Recently as WebAssembly came along with excellent performance, and AudioWorklet technology in providing low latency audio, it's finally possible to use the web for serious music production. As a programmer I like to use a programming language for expressing the music, and also for synthesizing the instruments. I compose my music in Javascript and create my instruments in AssemblyScript which is compiled to WebAssembly. It's all running in the browser. You can write the music in a live coding-environment, and you can play and record the instruments with a midi-keyboard.
 
@@ -66,8 +63,8 @@ You will be able to see the work from Peter and how he  generated the music base
 # 🚤 Motion
 
 # Controlling an Unreal Engine Particle System with Twitter
+{{<youtube WiLPwNWuzXw>}}
 
-[https://www.youtube.com/watch?v=WiLPwNWuzXw](https://www.youtube.com/watch?v=WiLPwNWuzXw)
 
 > There is little to be seen here in terms of the technical breakdown of the piece. Yet the concept, though we see it in a number of different applications such a
 
@@ -79,7 +76,7 @@ You will be able to see the work from Peter and how he  generated the music base
 
 > Though we may not be able to know for certain the exact mechanisms of these real-world processes, we can digitally simulate their behaviors through careful examination of their effects and speculating on the fundamental rules at play.
 
-![](https://inconvergent.net/img/writing/thoughts/head.jpg)
+![](/images/007/007_2.jpg)
 
 ## [Some Thoughts on Generative Art](https://inconvergent.net/thoughts-on-generative-art/)
 
@@ -93,8 +90,7 @@ You will be able to see the work from Peter and how he  generated the music base
 
 ## City Generator - Procedural City Generator
 
-[https://www.youtube.com/watch?v=ligKs9aXKsA](https://www.youtube.com/watch?v=ligKs9aXKsA)
-
+{{<youtube ligKs9aXKsA>}}
 > Today we are looking at City Generator, a tool for quickly creating cities using procedural generation. We then look at how to take the output and create 3D levels in Blender.
 
 ![https://new-cdn.80.lv/upload/content/da/images/5f917d772b34c/widen_1840x0.jpg](https://new-cdn.80.lv/upload/content/da/images/5f917d772b34c/widen_1840x0.jpg)
@@ -107,7 +103,7 @@ You will be able to see the work from Peter and how he  generated the music base
 
 # Courses
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/005588d5-dbc8-48fe-ac41-94ea4d15b3ff/Screen_Capture_-_Nov_28__3_34_PM.png)
+![](/images/007/007_3.png)
 
 ## [Create Abstract Digital Paintings w/ Processing](https://www.skillshare.com/classes/Create-Abstract-Digital-Paintings-With-Processing/2068556099?via=search-layout-grid)
 
