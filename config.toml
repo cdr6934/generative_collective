@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"  # Include trailing slash
+baseurl = "http://generativecollective.com/"  # Include trailing slash
 title = "Generate Collective"
 theme = "newsroom"
 author = "Chris Ried"
