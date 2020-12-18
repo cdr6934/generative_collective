@@ -23,7 +23,7 @@ To be honest, I am not sure what to think about this style. It seems to be a bit
 
 ## 📸Generative Graphics
 
-Here is a newly started t[witter account](https://twitter.com/LFractals?s=20)  called @LFractals, as you see with the following images. There are some complex looking mathematics going on produce some beautiful [Lyapunov fractals](https://en.wikipedia.org/wiki/Lyapunov_fractal).
+Here is a newly started [twitter account](https://twitter.com/LFractals?s=20)  called @LFractals, as you see with the following images. There are some complex looking mathematics going on produce some beautiful [Lyapunov fractals](https://en.wikipedia.org/wiki/Lyapunov_fractal).
 
 ![Lyanpunov Fractal](/images/001/001_1.png)
 
